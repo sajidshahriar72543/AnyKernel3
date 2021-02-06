@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Common Xiaomi SDM845 kernel by xiaomi-sdm845-devel team
+kernel.string=Based on Common Xiaomi SDM845 kernel by xiaomi-sdm845-devel team
 do.devicecheck=1
 do.modules=0
 do.systemless=1
